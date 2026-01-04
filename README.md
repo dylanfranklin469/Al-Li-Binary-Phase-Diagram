@@ -16,3 +16,5 @@ binplot(db_alli, ['AL', 'LI', 'VA'], my_phases_alli, {v.X('LI'):(0,1,0.001), v.T
 plt.tight_layout()
 plt.savefig('ALLI_phase_diagram.pdf', bbox_inches='tight')
 plt.show()
+
+![Figure](Copy of ALLI_phase_diagram.pdf)
