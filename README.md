@@ -17,4 +17,4 @@ plt.tight_layout()
 plt.savefig('ALLI_phase_diagram.pdf', bbox_inches='tight')
 plt.show()
 
-![Figure](Copy of ALLI_phase_diagram.pdf)
+!([Copy of ALLI_phase_diagram.pdf](https://github.com/dylanfranklin469/Al-Li-Binary-Phase-Diagram/blob/215a3d52e7e7a7ac6e182f85068ddb708669800c/CopyofALLI_phase_diagram.pdf))
